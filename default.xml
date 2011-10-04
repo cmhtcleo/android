@@ -45,7 +45,7 @@
   <project path="device/htc/hero" name="CyanogenMod/android_device_htc_hero" />
   <project path="device/htc/heroc" name="CyanogenMod/android_device_htc_heroc" />
   <project path="device/htc/legend" name="CyanogenMod/android_device_htc_legend" />
-  <project path="device/htc/leo" name="CyanogenMod/android_device_htc_leo" />
+  <project path="device/htc/leo" name="cmhtcleo/android_device_htc_leo" />
   <project path="device/htc/liberty" name="CyanogenMod/android_device_htc_liberty" />
   <project path="device/htc/mecha" name="CyanogenMod/android_device_htc_mecha" />
   <project path="device/htc/msm7x30-common" name="CyanogenMod/android_device_htc_msm7x30-common" />
@@ -216,7 +216,7 @@
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
-  <project path="hardware/gpsshim" name="CyanogenMod/android_hardware_gpsshim" />
+  <project path="hardware/gpsshim" name="tytung/android_hardware_gpsshim" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
