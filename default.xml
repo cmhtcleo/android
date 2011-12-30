@@ -260,6 +260,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="packages/apps/UsbMassStorage" name="eyecatchup/net.bexton.android.UsbMassStorageToggle" revision="refs/heads/master" />
+  <project path="packages/apps/CMSettings" name="Pedlar/android_packages_apps_CMSettings" />
   <project path="vendor/htc/leo" name="cmhtcleo/android_vendor_htc_leo" revision="ics" />
 
   <project path="android" name="cmhtcleo/android" />
