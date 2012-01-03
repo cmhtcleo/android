@@ -159,7 +159,7 @@
   <project path="external/valgrind" name="CyanogenMod/android_external_valgrind" />
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
-  <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
+  <project path="external/webrtc" name="Evervolv/android_external_webrtc" />
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" />
   <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" />
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
@@ -263,6 +263,7 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="Evervolv/android_system_vold" />
+  <project path="system/wlan/ti" name="Evervolv/android_system_wlan_ti" />
 
   <project path="packages/apps/UsbMassStorage" name="eyecatchup/net.bexton.android.UsbMassStorageToggle" revision="refs/heads/master" />
   <project path="packages/apps/CMSettings" name="Pedlar/android_packages_apps_CMSettings" />
