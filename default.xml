@@ -160,7 +160,7 @@
   <project path="external/valgrind" name="CyanogenMod/android_external_valgrind" />
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
-  <project path="external/webrtc" name="Evervolv/android_external_webrtc" />
+  <project path="external/webrtc" name="arif-ali/android_external_webrtc" />
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" />
   <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" />
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
@@ -169,7 +169,7 @@
   <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
-  <project path="frameworks/base" name="Evervolv/android_frameworks_base" />
+  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" />
@@ -187,10 +187,10 @@
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
-  <project path="hardware/msm7k" name="Evervolv/android_hardware_msm7k" />
-  <project path="hardware/qcom/display" name="Evervolv/android_hardware_qcom_display" />
+  <project path="hardware/msm7k" name="cmhtcleo/android_hardware_msm7k" />
+  <project path="hardware/qcom/display" name="arif-ali/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
-  <project path="hardware/qcom/media" name="Evervolv/android_hardware_qcom_media" />
+  <project path="hardware/qcom/media" name="cmhtcleo/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -263,8 +263,8 @@
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
-  <project path="system/vold" name="Evervolv/android_system_vold" />
-  <project path="system/wlan/ti" name="Evervolv/android_system_wlan_ti" />
+  <project path="system/vold" name="CyanogenMod/android_system_vold" />
+  <project path="system/wlan/ti" name="arif-ali/android_system_wlan_ti" />
 
   <project path="packages/apps/UsbMassStorage" name="eyecatchup/net.bexton.android.UsbMassStorageToggle" revision="refs/heads/master" />
   <project path="packages/apps/CMSettings" name="Pedlar/android_packages_apps_CMSettings" />
