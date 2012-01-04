@@ -40,6 +40,7 @@
   <project path="device/samsung/tuna" name="CyanogenMod/android_device_samsung_tuna" />
   <project path="device/htc/common" name="ics-passion-dev/android_device_htc_common" revision="ics-starter" />
   <project path="device/htc/leo" name="cmhtcleo/android_device_htc_leo" revision="ics" />
+  <project path="device/htc/click" name="arif-ali/android_device_htc_click" revision="ics" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
