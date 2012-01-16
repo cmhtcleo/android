@@ -20,6 +20,7 @@
   <project path="bootable/recovery" name="arif-ali/android_bootable_recovery" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
+  <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" />
   <project path="device/htc/7x30-recovery" name="CyanogenMod/android_device_htc_7x30-recovery" />
   <project path="device/htc/click" name="arif-ali/android_device_htc_click" />
