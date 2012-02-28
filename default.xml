@@ -19,7 +19,7 @@
   <project path="bionic" name="CyanogenMod/android_bionic" />
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="arif-ali/android_bootable_recovery" />
+  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -36,7 +36,6 @@
   <project path="device/samsung/tuna" name="CyanogenMod/android_device_samsung_tuna" />
   <project path="device/htc/common" name="ics-passion-dev/android_device_htc_common" revision="ics-starter" />
   <project path="device/htc/leo" name="cmhtcleo/android_device_htc_leo" revision="ics" />
-  <project path="device/htc/click" name="arif-ali/android_device_htc_click" revision="ics" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -156,7 +155,6 @@
   <project path="external/valgrind" name="CyanogenMod/android_external_valgrind" />
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
-  <project path="external/webrtc" name="arif-ali/android_external_webrtc" />
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" />
   <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" />
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
@@ -261,12 +259,10 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
-  <project path="system/wlan/ti" name="arif-ali/android_system_wlan_ti" />
-
+  
   <project path="packages/apps/UsbMassStorage" name="eyecatchup/net.bexton.android.UsbMassStorageToggle" revision="refs/heads/master" />
   <project path="packages/apps/CMSettings" name="Pedlar/android_packages_apps_CMSettings" />
   <project path="vendor/htc/leo" name="cmhtcleo/android_vendor_htc_leo" revision="ics" />
-  <project path="vendor/htc/click" name="arif-ali/android_vendor_htc_click" revision="ics" />
-
+  
   <project path="android" name="cmhtcleo/android" />
 </manifest>
